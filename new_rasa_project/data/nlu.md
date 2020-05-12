@@ -6,6 +6,9 @@
 - covid-19
 - what is corona virus?
 - what is covid-19?
+- coronavirus
+- novel coronavirus
+- provide some general information on covid-19
 
 ## intent:covid-19 greet
 - hey robo
@@ -32,12 +35,15 @@
 - Show some facts about coronavirus
 - interesting covid-19 myths
 
+
 ## intent:covid-19 reinfection
 - reinfection from corona
 - reinfection
 - I recovered from the corona. will I get infected again?
 - i recovered from covid-19.will i get infected again?
 - will anyone be reinfected by corona?
+- What are the chances that I may be affected by the virus again
+- Can covid-19 affect me again
 
 ## intent:covid-19 testing
 - tests to detect corona infection
@@ -45,6 +51,9 @@
 - what are tests to detect corona
 - tests for covid-19
 - what are the tests available for covid-19?
+- how to test for covid-19
+- what are the different type of tests
+- tests available in India for covid-19
 
 ## intent:covid-19 vaccine
 - corona vaccine update?
@@ -68,6 +77,8 @@
 - when does one start to show the symptoms?
 - what is the incubation period for corona virus?
 - after how many days does the infected person starts to show the symptoms
+- Time taken by the person to show symptoms after getting infected by the virus
+- covid-19 incubation period
 
 ## intent:lockdown
 - Till when is the lockdown in India)?
@@ -76,6 +87,7 @@
 - When shall we come to our normal routine
 - When shall the complete lockdown in India due to COVID-19 be removed
 - when shall i able to leave my house?
+- lockdown
 
 ## intent:masks
 - types of covid-19 masks
@@ -83,11 +95,15 @@
 - types of corona masks
 - different masks available for corona
 - what are the masks available for corona?
+- mask
+
 
 ## intent:precautionarymeasuresatwork
 - precautions at work
 - precautions at office
 - precautionary measures at work
+- safety measures at work
+- covid-19 preventive measures to be followed at workplace
 
 ## intent:authorised_websites_for_donation
 - where to donate?
@@ -128,6 +144,8 @@
 - How to wash vegetables?
 - How to wash fruits?
 - How to wash fruits and vegetables ?
+- How to sanitize fruits and vegetables
+- Sanitizing fruits and vegetables
 
 ## intent:cloth_masks
 - cloth masks
@@ -138,6 +156,7 @@
 - can covid-19 spread through air
 - corona transmission through air
 - can corona virus spread through air
+- is it possible for the virus to spread through air
 
 ## intent:covid_causes
 - What can cause COVID-19
@@ -146,12 +165,18 @@
 - do you know the cause of covid-19
 - covid-19 causes
 - cause of covid-19
+- How is the disease caused
 
 ## intent:precautions
 - preventive measures
 - precautionary measures
 - precautions to protect from covid-19
 - precautions to protect from corona
+- How can I stay safe
+- Suggest me some precautions
+- How can I avoid getting affected by corona virus
+- Give me some useful tips so that I don't get infected by coronavirus
+- How can we keep ourselves safe from the virus
 
 ## intent:severe symptoms
 - who should be more careful?
@@ -160,10 +185,11 @@
 - Which section of the population is likely to develop severe symptoms?
 
 ## intent:social distancing
-- is social distancing
-- social distancing means?
+- what is social distancing
+- what does social distancing means?
 - social distancing?
 - what is social distancing?
+- how social distancing should to be followed
 
 ## intent:stress management
 - what can i do to pass time during lockdown
@@ -172,12 +198,18 @@
 - interesting things to do during lockdown
 - how to usefully spend our time
 - fun things
+- stress management
 
 ## intent:symptoms of covid-19
 - symptoms of covid-19
 - symptoms?
 - let me know the symptoms of covid-19
 - what are the symptoms of covid-19?
+- Provide some information about the initial symptoms of the disease
+- What are the signs that will tell that I have corona virus
+- How do I know if I am infected by corona virus
+- Am I infected
+- Signs of having coronavirus
 
 ## intent:washing groceries
 - how to sanitise groceries?
@@ -194,4 +226,9 @@
 - helpline number
 - toll free number
 - give me the toll free number in india for corona virus
+- coronavirus helpline numbers
+- important contact numbers
+- help
 
+## intent:none
+- 123456789

@@ -24,6 +24,7 @@ intents:
   - symptoms of covid-19
   - washing groceries
   - helpline numbers
+  - none
 
 responses:
   utter_general:
@@ -216,6 +217,9 @@ responses:
         \n2.When it comes to fresh produce, such as fruits and vegetables, do not use products containing any chemicals to clean them.
         \n3.For unwrapped fresh goods, which could have been handled by anyone, wash thoroughly under running water and leave to dry."
 
+  utter_default:
+    - text: "Sorry I didn't get it. Could you please repeat ? "
+
 
 actions:
   - utter_general
@@ -229,13 +233,13 @@ actions:
   - utter_lockdown
   - utter_masks
   - utter_precautionarymeasuresatwork
-  - authorised_websites_for_donation
-  - authorised_websites_for_statistics
-  - can_animal_transmit
-  - cleanliness
-  - cloth_masks
-  - corona_transmission_through_air
-  - covid_causes
+  - utter_authorised_websites_for_donation
+  - utter_authorised_websites_for_statistics
+  - utter_can_animal_transmit
+  - utter_cleanliness
+  - utter_cloth_masks
+  - utter_corona_transmission_through_air
+  - utter_covid_causes
   - utter_precautions
   - utter_severe symptoms
   - utter_social distancing
