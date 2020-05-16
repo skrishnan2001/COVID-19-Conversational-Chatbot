@@ -56,8 +56,6 @@
   - Awesome facts
   - Hey,can you tell some facts about the virus
 
-    
-
 ## intent:covid-19 reinfection
 
    - reinfection from corona
