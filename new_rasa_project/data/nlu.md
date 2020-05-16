@@ -12,7 +12,6 @@
   - corona virus means
   - corona?
   - what is corona?
-  - tell me something about newly spread Chinese virus
   - what is the most widely spread disease of 2020
     
 
@@ -98,6 +97,7 @@
    - is vaccine for corona virus ready
    - is vaccine for corona ready
    - tell me if any vaccine is available for covid-19
+   - medical interventions for corona
 
 ## intent:hydroxychloroquinetreatment
 
@@ -123,7 +123,7 @@
 
 ## intent:lockdown
 
-- Till when is the lockdown in India)?
+- Till when is the lockdown in India?
 - For how many days will we have to stay in quarantine
 - When is the lockdown in India supposed to end?
 - When shall we come to our normal routine
@@ -135,7 +135,7 @@
 - when will the lockdown end in india
 - lockdown 3.0
 - lockdown 4.0
-- for how many days will the lockdown extent
+- for how many days will the lockdown extend
 
 ## intent:masks
 
@@ -295,6 +295,7 @@
 - what are some of the severe symptoms of corona virus?
 - who are the ones to be greatly affected by the corona virus?
 - who are likely to be severely affected by COVID-19?
+
 
 ## intent:social distancing
 
