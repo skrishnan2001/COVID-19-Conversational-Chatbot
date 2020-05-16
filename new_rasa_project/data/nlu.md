@@ -15,6 +15,8 @@
   - corona virus means
   - corona?
   - what is corona?
+  - tell me something about newly spread Chinese virus
+  - what is the most widely spread disease of 2020
     
 
 ## intent:covid-19 greet
@@ -30,26 +32,33 @@
  - hola
  - hey
  - hi
+ - hello bot
+ - greetings
+ - hello chatbot
 
 ## intent:covid-19 myths
 
-  -  myths
-  -  myths and facts??
-  -  Tell me some myths about coronavirus
-  -  Reveal some interesting facts about corona virus
-  -  List some common misconception about COVID-19
-  -  Unknown facts about the widely spread disease
-  -  COVID facts
-  -  Surprise me with some facts
-  -  Show some facts about coronavirus
-  -  interesting covid-19 myths
-  -  myths and facts about corona
-  -  corona myths
-  -  covid-19 myths
-  -  covid-19 virus myths
-  -  corona virus myths
-  -  myths about corona
-  -  myths about covid-19
+  - myths
+  - myths and facts??
+  - Tell me some myths about coronavirus
+  - Reveal some interesting facts about corona virus
+  - List some common misconception about COVID-19
+  - Unknown facts about the widely spread disease
+  - COVID facts
+  - Surprise me with some facts
+  - Show some facts about coronavirus
+  - interesting covid-19 myths
+  - myths and facts about corona
+  - corona myths
+  - covid-19 myths
+  - covid-19 virus myths
+  - corona virus myths
+  - myths about corona
+  - myths about covid-19
+  - bust some myths about covid-19
+  - Awesome facts
+  - Hey,can you tell some facts about the virus
+
     
 
 ## intent:covid-19 reinfection
@@ -66,6 +75,8 @@
    - any cases of corona reinfection
    - corona reinfection
    - covid-19 reinfection
+   - is there a possibility of getting infected again
+   - Can a affected person catch be affected by the virus again
 
 ## intent:covid-19 testing
 
@@ -96,6 +107,7 @@
    - covid-19 vaccine
    - is vaccine for corona virus ready
    - is vaccine for corona ready
+   - tell me if any vaccine is available for covid-19
 
 ## intent:hydroxychloroquinetreatment
 
@@ -106,6 +118,7 @@
    - treatment for corona
    - corona treatment
    - treatment
+
 ## intent:incubationperiodofcoronavirus
 
    - How long after exposure can one develop symptoms?
@@ -199,6 +212,7 @@
 - no of infected
 - no of covid-19 cases today
 - no of corona cases today
+
 ## intent:can_animal_transmit
 - can domestic animals spread corona
 - can animals spread corona
@@ -337,6 +351,7 @@
 - covid-19 helpline no.s
 - corona helpline no.
 - covid-19 helpline no.
+
 ## intent:none
 - 123456789
 - yha
