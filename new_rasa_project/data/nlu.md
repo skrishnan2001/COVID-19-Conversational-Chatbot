@@ -1,6 +1,4 @@
 ## intent:covid-19 general information
-
-<<<<<<< HEAD
   - corona virus
   - corona means
   - covid-19 means
@@ -76,70 +74,6 @@
    - covid-19 reinfection
    - is there a possibility of getting infected again
    - Can a affected person catch be affected by the virus again
-=======
-- corona virus
-- corona means
-- covid-19 means
-- corona
-- covid-19
-- what is corona virus?
-- what is covid-19?
-- coronavirus
-- novel coronavirus
-- provide some general information on covid-19
-- corona virus means
-- corona?
-- what is corona?
-
-## intent:covid-19 greet
-
-- hey robo
-- hello
-- hi there
-- hey there
-- hi bot
-- hey bot
-- hi mam
-- hi sir
-- hola
-- hey
-- hi
-
-## intent:covid-19 myths
-
-- myths
-- myths and facts??
-- Tell me some myths about coronavirus
-- Reveal some interesting facts about corona virus
-- List some common misconception about COVID-19
-- Unknown facts about the widely spread disease
-- COVID facts
-- Surprise me with some facts
-- Show some facts about coronavirus
-- interesting covid-19 myths
-- myths and facts about corona
-- corona myths
-- covid-19 myths
-- covid-19 virus myths
-- corona virus myths
-- myths about corona
-- myths about covid-19
-
-## intent:covid-19 reinfection
-
-- reinfection from corona
-- reinfection
-- I recovered from the corona. will I get infected again?
-- i recovered from covid-19.will i get infected again?
-- will anyone be reinfected by corona?
-- What are the chances that I may be affected by the virus again
-- Can covid-19 affect me again
-- does corona virus reinfect a person again
-- does covid-19 reinfect again
-- any cases of corona reinfection
-- corona reinfection
-- covid-19 reinfection
->>>>>>> 1d607399dc6bb9c5e2d3464744ab7d4f87925ea7
 
 ## intent:covid-19 testing
 
@@ -154,7 +88,6 @@
 
 ## intent:covid-19 vaccine
 
-<<<<<<< HEAD
    - corona vaccine update?
    - when can we expect corona vaccine?
    - when will a vaccine for corona be available?
@@ -177,29 +110,6 @@
    - treatment for corona
    - corona treatment
    - treatment
-=======
-- corona vaccine update?
-- when can we expect corona vaccine?
-- when will a vaccine for corona be available?
-- do we have a vaccine for corona?
-- status of vaccine for corona?
-- are vaccines tested with humans?
-- is vaccine for covid-19 ready?
-- vaccine for covid-19
-- covid-19 vaccine
-- is vaccine for corona virus ready
-- is vaccine for corona ready
-
-## intent:hydroxychloroquinetreatment
-
-- hydroxychloroquine medicine
-- myths about treatment for corona
-- hydroxychloroquine treatment
-- Is the treatment using Hydroxychloroquine a myth, hype or reality?
-- treatment for corona
-- corona treatment
-- treatment
->>>>>>> 1d607399dc6bb9c5e2d3464744ab7d4f87925ea7
 
 ## intent:incubationperiodofcoronavirus
 
@@ -375,6 +285,8 @@
 - corona precautions
 - covid-19 precautions
 - corona preventions
+- safety-measures to be followed
+
 
 ## intent:severe symptoms
 
