@@ -116,7 +116,7 @@
    - covid-19 incubation period
    - incubation period of corona virus
    - incubation period of covid-19
-    
+   - when does a person show symptoms after infection
 
 ## intent:lockdown
 
