@@ -47,6 +47,10 @@
 - corona virus myths
 - myths about corona
 - myths about covid-19
+- myths about coronavirus
+- coronavirus myths
+- facts about covid 19
+- facts about corona
 
 ## intent:covid-19 reinfection
 
