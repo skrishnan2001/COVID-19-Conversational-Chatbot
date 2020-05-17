@@ -15,6 +15,7 @@
   - corona?
   - what is corona?
   - what is the most widely spread disease of 2020
+  - covid 19
     
 
 ## intent:covid-19 greet
