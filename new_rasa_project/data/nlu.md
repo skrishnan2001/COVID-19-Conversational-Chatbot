@@ -6,6 +6,8 @@
   - covid-19
   - what is corona virus?
   - what is covid-19?
+  - what is covid 19?
+  - what is covid-19?
   - coronavirus
   - novel coronavirus
   - provide some general information on covid-19
@@ -71,6 +73,8 @@
    - covid-19 reinfection
    - is there a possibility of getting infected again
    - Can a affected person catch be affected by the virus again
+   - any chances of getting corona virus more than once?
+
 
 ## intent:covid-19 testing
 
@@ -120,6 +124,8 @@
 - incubation period of corona virus
 - incubation period of covid-19
 - when does a person show symptoms after infection
+- after how many days will i get the symptoms?
+
 
 ## intent:lockdown
 
@@ -153,9 +159,14 @@
 - corona masks
 - masks to prevent corona
 - masks to prevent corona virus
+-tell me something about the masks
+
 
 ## intent:precautionarymeasuresatwork
-
+- preventions
+- preventions at work
+- preventions at office
+- precautions
 - precautions at work
 - precautions at office
 - precautionary measures at work
