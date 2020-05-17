@@ -112,6 +112,8 @@
    - treatment for corona
    - corona treatment
    - treatment
+   - Is hydroxychloroquine safe to use?
+   - Do hydroxychloroquine has side effects
 
 ## intent:incubationperiodofcoronavirus
 
@@ -159,7 +161,8 @@
 - corona masks
 - masks to prevent corona
 - masks to prevent corona virus
--tell me something about the masks
+- tell me something about the masks
+- do masks protect us from covid19
 
 
 ## intent:precautionarymeasuresatwork
@@ -175,6 +178,8 @@
 - precautions work
 - workplace precautions
 - office precautions
+- what should be done to stay away from covid19
+- how can I stop myself from getting infected by covid19 
 
 ## intent:authorised_websites_for_donation
 
@@ -225,6 +230,7 @@
 - can animals transmit corona
 - can domestic animals transmit the disease
 - can the domestic animals transmit corona
+- should i keep my pet animals away due to the spread of virus
 
 ## intent:cleanliness
 
@@ -247,6 +253,7 @@
 - Will a cloth mask be effective?
 - how to use cloth masks
 - can i use cloth mask
+- i don't have surgical mask can i use cloth mask
 
 ## intent:corona_transmission_through_air
 
@@ -306,7 +313,7 @@
 - what are some of the severe symptoms of corona virus?
 - who are the ones to be greatly affected by the corona virus?
 - who are likely to be severely affected by COVID-19?
-
+- Are old people affected most
 
 ## intent:social distancing
 
@@ -359,6 +366,7 @@
 - give me some symptoms of COVID-19?
 - what are some of the symptoms for corona virus?
 - what are some of the symptoms for COVID-19?
+- do i have covid19
 
 ## intent:washing groceries
 
@@ -402,6 +410,7 @@
 - covid-19 helpline no.s
 - corona helpline no.
 - covid-19 helpline no.
+- whom should i contact when i have the symptoms
 
 ## intent:none
 
