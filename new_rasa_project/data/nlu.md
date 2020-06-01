@@ -279,6 +279,10 @@
 
 ## intent:precautions
 
+- precautions
+- precaution
+- prevention
+- preventions
 - preventive measures
 - precautionary measures
 - precautions to protect from covid-19
@@ -294,8 +298,6 @@
 - what are some of the preventive measures to be followed for corona virus?
 - tell me some of the preventive measures to be kept in mind to protect ourselves from COVID-19
 - preventive measures
-- prevention
-- preventions
 - how to prevent from corona infection
 - how to prevent from covid-19
 - covid-19 prevention
@@ -304,9 +306,6 @@
 - covid-19 precautions
 - corona preventions
 - safety-measures to be followed
-- precaution
-- precautions
-
 
 ## intent:severe symptoms
 
