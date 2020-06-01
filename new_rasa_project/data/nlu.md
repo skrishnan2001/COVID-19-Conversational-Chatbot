@@ -1,197 +1,429 @@
-## intent:covid-19_myths
-- covid-19_myths
-- கட்டுக்கதை
-- கட்டுக்கதைகள்
-- கொரோனா வைரஸ் பற்றிய சில கட்டுக்கதைகளைச் சொல்லுங்கள்
-- COVID-19 பற்றிய பொதுவான தவறான எண்ணங்களை பட்டியலிடுங்கள்
-- கொரோனா வைரஸ் பற்றிய சில சுவாரஸ்யமான உண்மைகளை வெளிப்படுத்துங்கள்
-- COVID உண்மைகள்
+## intent:covid-19 general information
+  - corona virus
+  - corona means
+  - covid-19 means
+  - corona
+  - covid-19
+  - what is corona virus?
+  - what is covid-19?
+  - what is covid 19?
+  - what is covid-19?
+  - coronavirus
+  - novel coronavirus
+  - provide some general information on covid-19
+  - corona virus means
+  - corona?
+  - what is corona?
+  - what is the most widely spread disease of 2020
+  - covid 19
 
-## intent:goodbye
-- bye
-- goodbye
-- see you around
-- see you later
 
-## intent:bot_challenge
-- bot_challenge
-- ஏய் ரோபோ
+## intent:covid-19 greet
 
-## intent:covid
-- covid
-- கோவிட் -19
-- COVID-19 க்கு என்ன காரணம்
-- COVID-19 இன் முக்கிய காரணங்களை பட்டியலிடுங்கள்
-- கொரோனா வைரஸுக்கு முக்கிய காரணம் என்ன
-- கோவிட் -19 இன் காரணம் உங்களுக்குத் தெரியுமா?
-- கோவிட் -19 காரணங்கள்
-- கோவிட் -19 இன் காரணம்
+ - hey robo
+ - hello
+ - hi there
+ - hey there
+ - hi bot
+ - hey bot
+ - hi mam
+ - hi sir
+ - hola
+ - hey
+ - hi
+ - hello bot
+ - greetings
+ - hello chatbot
 
-## intent:greet
-- greet
-- ஹாய் மாம்
-- வணக்கம்
-- ஏய் ரோபோ
+## intent:covid-19 myths
 
-##  intent:vaccine
-- vaccine
-- தடுப்பு மருந்து
-- கொரோனாவுக்கு தடுப்பூசி உள்ளதா?
-- கொரோனாவுக்கான தடுப்பூசியின் நிலை?
-- தடுப்பூசிகள் மனிதர்களுக்கு  சோதிக்கப்படுகின்றனவா?
-- கோவிட் -19 க்கான தடுப்பூசி தயாரா?
+  - myths
+  - myths and facts??
+  - Tell me some myths about coronavirus
+  - Reveal some interesting facts about corona virus
+  - List some common misconception about COVID-19
+  - Unknown facts about the widely spread disease
+  - COVID facts
+  - Surprise me with some facts
+  - Show some facts about coronavirus
+  - interesting covid-19 myths
+  - myths and facts about corona
+  - corona myths
+  - covid-19 myths
+  - covid-19 virus myths
+  - corona virus myths
+  - myths about corona
+  - myths about covid-19
+  - bust some myths about covid-19
+  - Awesome facts
+  - Hey,can you tell some facts about the virus
 
-##  intent:general_information
-- general_information
-- பொதுவான தகவல்கள்
-- பொதுவான செய்தி
-- COVID 19 எவ்வளவு ஆபத்தானது?
-- கொரோனா வைரஸ்
-- கொரோனா என்றால்
-- covid-19 என்றால்
-- கொரோனா
-- கோவிட் -19
-- கொரோனா வைரஸ் என்றால் என்ன?
+## intent:covid-19 reinfection
 
-##  intent:reinfection
-- reinfection
-- மறுசீரமைப்பு
-- கொரோனாவிலிருந்து மறுசீரமைப்பு
-- நான் கொரோனாவிலிருந்து மீண்டேன்.  மீண்டும் தொற்று பாதிப்பு ஏற்படுமா
+   - reinfection from corona
+   - reinfection
+   - I recovered from the corona. will I get infected again?
+   - i recovered from covid-19.will i get infected again?
+   - will anyone be reinfected by corona?
+   - What are the chances that I may be affected by the virus again
+   - Can covid-19 affect me again
+   - does corona virus reinfect a person again
+   - does covid-19 reinfect again
+   - any cases of corona reinfection
+   - corona reinfection
+   - covid-19 reinfection
+   - is there a possibility of getting infected again
+   - Can a affected person catch be affected by the virus again
+   - any chances of getting corona virus more than once?
 
-## intent:symptoms
-- symptoms
-- கோவிட் -19 இன் அறிகுறிகள்
-- அறிகுறிகள்
-- கோவிட் -19 இன் அறிகுறிகளை எனக்குத் தெரியப்படுத்துங்கள்
-- கோவிட் -19 இன் அறிகுறிகள் யாவை?
 
-## intent:lockdown
-- lockdown
-- ஊரடங்கு
-- இந்தியாவில் ஊரடங்கு எப்போது?
-- எத்தனை நாட்கள் நாங்கள் தனிமைப்படுத்தலில் இருக்க வேண்டியிருக்கும்
-- நாங்கள் எப்போது எங்கள் வழக்கமான செயல்களுக்கு வருவோம்
-- COVID-19 காரணமாக இந்தியாவில் முழுமையான ஊரடங்கு எப்போது அகற்றப்படும்
+## intent:covid-19 testing
 
-## intent:incubation_period_of_corona_virus
-- incubation period of corona virus
-- கொரோனா வைரஸின் அடைகாக்கும் காலம்
-- பாதிக்கப்பட்ட நபர் எத்தனை நாட்களுக்குப் பிறகு அறிகுறிகளைக் காட்டத் தொடங்குகிறார்
-- கொரோனா வைரஸிற்கான அடைகாக்கும் காலம் என்ன?
-- ஒருவர் எப்போது அறிகுறிகளைக் காட்டத் தொடங்குவார்?
-- வெளிப்பாடுக்குப் பிறகு ஒருவர் அறிகுறிகளை உருவாக்க முடியும்?
+- tests to detect corona infection
+- tests for corona
+- what are tests to detect corona
+- tests for covid-19
+- what are the tests available for covid-19?
+- how to test for covid-19
+- what are the different type of tests
+- tests available in India for covid-19
+- how is the testing done
 
-## intent:social_distancing
-- social distancing
-- சமூக விலகல்
-- சமூக இடைவெளி என்றால் என்ன?
-- சமூக விலகல்?
+## intent:covid-19 vaccine
 
-## intent:treatment
-- treatment
-- சிகிச்சை
-- சிகிச்சைக்காக  மேற்கொள்ளப்படும்  ஆராய்ச்சிகள்  என்ன?
-- என்ன சிகிச்சைமுறைகள் மேற்கொள்ளப்படுகின்றன ?
-
-## intent:self_isolation
-- self_isolation
-- சுய தனிமை
-- சுய தனிமை என்றால் என்ன?
-
-## intent:testing
-- testing
-- சோதனை
-- கண்டறியும் சோதனைகள் என்ன, கிடைக்கக்கூடிய சோதனை வகைகள் யாவை?
-
-## intent:prevention
-- prevention
-- தடுப்பது
-- COVID-19 ஐ எவ்வாறு தடுப்பது?
-- தடுப்பு
-
-## intent:tamilnadu_helpline_no
-- tamilnadu helpline no
-- தமிழ்நாடு
-- தமிழ்நாடு ஹெல்ப்லைன் எண்கள்
-
-## intent:authorised_websites_for_donation
-- authorised websites for donation
-- நன்கொடைக்கு அங்கீகரிக்கப்பட்ட வலைத்தளங்கள்
-- நன்கொடை
-- கொரோனாவுக்கு நன்கொடை
-- கோவிட் -19 பிரதமரின் நிதிக்கு நான் நன்கொடை அளிக்க விரும்புகிறேன்
-
-## intent:authorised_websites_for_statistics
-- authorised websites for statistics
-- அங்கீகரிக்கப்பட்ட வலைத்தளம்
-- அங்கீகரிக்கப்பட்ட வலைத்தளங்கள்
-- புள்ளிவிவரங்களுக்கான அங்கீகரிக்கப்பட்ட வலைத்தளம்
-- இந்தியாவில் கோவிட் -19 வழக்குகள்
-- கோவிட் -19 நோயாளிகள்
-- கொரோனா வைரஸ் பாதிக்கப்பட்டவர்களின் எண்ணிக்கை மற்றும் புள்ளிவிவரங்கள் மற்றும் வரைபடம்
-- கொரோனா வைரஸ் பற்றிய புள்ளிவிவரங்களை நான் எங்கே காணலாம்
-
-## intent:stress_management
-- stress management
-- மன அழுத்த மேலாண்மை
-- பூட்டுதலின் போது நேரத்தை கடக்க நான் என்ன செய்ய முடியும்
-- பூட்டுதலின் போது செய்ய வேண்டிய சுவாரஸ்யமான விஷயங்கள்
-- வீட்டில் நான் இருந்த காலத்தில் நான் என்ன செய்ய முடியும்
-- எங்கள் நேரத்தை எவ்வாறு பயனுள்ளதாக செலவிடுவது
-
-## intent:masks
-- masks
-- முகமூடிகள்
-- கொரோனாவுக்கு கிடைக்கும் முகமூடிகள் யாவை?
-- COVID19 முகமூடிகளின் வகைகள்
-- COVID19 முகமூடிகள்
-- COVID19 முகமூடிகளின் வகைகள்?
-
-## intent:lockdown
-- lockdown
-- முடக்குதல்
-- முடக்கு
-
-## intent:precautions
-- precautions
-- தற்காப்பு
-- தற்காப்பு நடவடிக்கைகள்
-- கொரோனாவிலிருந்து நம்மை எவ்வாறு தடுக்க முடியும்
-- தடுப்பு நடவடிக்கைகள்
-- கோவிட் -19 இலிருந்து பாதுகாக்க முன்னெச்சரிக்கைகள்
-- முன்னெச்சரிக்கை நடவடிக்கைகள்
-
-## intent:can_animals_transmit
-- can_animals_transmit
-- விலங்குகள் COVID-19 பரப்ப முடியுமா?
-- வீட்டு விலங்குகள் கொரோனாவை பரப்ப முடியுமா?
-- விலங்குகள் கொரோனாவை பரப்ப முடியுமா?
-- விலங்குகள் மூலம் கொரோனா பரவுதல்?
-- வீட்டு விலங்குகள் நோயை பரப்ப முடியும்?
-- விலங்குகள் கொரோனாவை கடத்துகின்றனவா?
-- விலங்குகள் கொரோனாவைப் பரப்ப முடியுமா?
-- வீட்டு விலங்குகள் கொரோனாவைப் பரப்ப முடியுமா?
-
-## intent:home_delivery
-- home_delivery
-- வீட்டு விநியோக சேவைகள்
-- உணவு, மளிகை சாமான்கள் மற்றும் மருந்துகளுக்கான வீட்டு விநியோக சேவைகளை நாம் நம்பலாமா?
-
-## intent:helpline_no
-- helpline_no.'s
-- உதவி எண்கள்
-- நான் யாரை தொடர்பு கொள்ள வேண்டும்?
-- ஹெல்ப்லைன் எண்
-- கட்டணமில்லா எண்
-- கொரோனா வைரஸிற்கான இந்தியாவில் கட்டணமில்லா எண்ணை எனக்குக் கொடுங்கள்
+   - corona vaccine update?
+   - when can we expect corona vaccine?
+   - when will a vaccine for corona be available?
+   - do we have a vaccine for corona?
+   - status of vaccine for corona?
+   - are vaccines tested with humans?
+   - is vaccine for covid-19 ready?
+   - vaccine for covid-19
+   - covid-19 vaccine
+   - is vaccine for corona virus ready
+   - is vaccine for corona ready
+   - tell me if any vaccine is available for covid-19
+   - medical interventions for corona
 
 ## intent:hydroxychloroquinetreatment
-- hydroxychloroquinetreatment
-- ஹைட்ராக்ஸி குளோரோகுயினைப் பயன்படுத்தி சிகிச்சை என்பது ஒரு கட்டுக்கதையா?
-- ஹைட்ராக்ஸி குளோரோகுயின் சிகிச்சை
-- ஹைட்ராக்ஸி குளோரோகுயின் மருந்து
+
+   - hydroxychloroquine medicine
+   - myths about treatment for corona
+   - hydroxychloroquine treatment
+   - Is the treatment using Hydroxychloroquine a myth, hype or reality?
+   - treatment for corona
+   - corona treatment
+   - treatment
+   - Is hydroxychloroquine safe to use?
+   - Do hydroxychloroquine has side effects
+   - medicine
+   - medicines
+   - The drug which is used for malaria treatment which is used for the treatment of covid
+
+## intent:incubationperiodofcoronavirus
+
+- How long after exposure can one develop symptoms?
+- when does one start to show the symptoms?
+- what is the incubation period for corona virus?
+- after how many days does the infected person starts to show the symptoms
+- Time taken by the person to show symptoms after getting infected by the virus
+- covid-19 incubation period
+- incubation period of corona virus
+- incubation period of covid-19
+- when does a person show symptoms after infection
+- after how many days will i get the symptoms?
 
 
+## intent:lockdown
+
+- Till when is the lockdown in India?
+- For how many days will we have to stay in quarantine
+- When is the lockdown in India supposed to end?
+- When shall we come to our normal routine
+- When shall the complete lockdown in India due to COVID-19 be removed
+- when shall i able to leave my house?
+- lockdown
+- when will the lockdown end in chennai
+- when will the lockdown end in india
+- lockdown 3.0
+- lockdown 4.0
+- lockdown 5.0
+- for how many days will the lockdown extend
+
+## intent:masks
+
+- types of covid-19 masks
+- covid-19 masks
+- types of corona masks
+- different masks available for corona
+- what are the masks available for corona?
+- mask
+- corona virus masks
+- masks for covid-19
+- masks for corona virus
+- corona masks
+- masks
+- corona masks
+- masks to prevent corona
+- masks to prevent corona virus
+- tell me something about the masks
+- do masks protect us from covid19
 
 
+## intent:precautionarymeasuresatwork
+- preventions
+- preventions at work
+- preventions at office
+- precautions
+- precautions at work
+- precautions at office
+- precautionary measures at work
+- safety measures at work
+- covid-19 preventive measures to be followed at workplace
+- precautions work
+- workplace precautions
+- office precautions
+- what should be done to stay away from covid19
+- how can I stop myself from getting infected by covid19
+
+## intent:authorised_websites_for_donation
+
+- bye
+- exit
+- stop
+- thanks
+- thank you
+- bye bye
+- good bye
+
+## intent:authorised_websites_for_statistics
+
+- covid 19 active cases
+- corona virus active cases
+- corona virus recovered
+- corona virus deaths
+- corona virus number of people affected
+- corona virus cases in [india](geo-country)
+- corona cases in [india](geo-country)
+- covid 19 graphs
+- statistics for covid 19
+- covid-19 cases
+- covid-19 cases in [chennai](geo-city)
+- covid-19 cases in [india](geo-country)
+- number of corona virus victims and statistics and graph
+- where can i find the statistics about corona virus
+- no. of infected
+- number of infected
+- number of corona infected in india
+- no. of corona infected in chennai
+- number of corona infected in india
+- no. of corona infected in chennai
+- no of infected
+- no of covid-19 cases today
+- no of corona cases today
+
+## intent:can_animal_transmit
+
+- can domestic animals spread corona
+- can animals spread corona
+- animals transmitting corona
+- corona transmission through animals
+- can animals transmit corona
+- can domestic animals transmit the disease
+- can the domestic animals transmit corona
+- should i keep my pet animals away due to the spread of virus
+
+## intent:cleanliness
+
+- Can I use soap to wash vegetables?
+- How to wash vegetables?
+- How to wash fruits?
+- How to wash fruits and vegetables ?
+- How to sanitize fruits and vegetables
+- Sanitizing fruits and vegetables
+- how to wash
+- how to wash groceries
+- washing fruits procedures
+- washing groceries procedures
+- washing procedures
+
+## intent:cloth_masks
+
+- cloth masks
+- can we use cloth masks
+- Will a cloth mask be effective?
+- how to use cloth masks
+- can i use cloth mask
+- i don't have surgical mask can i use cloth mask
+
+## intent:corona_transmission_through_air
+
+- can covid-19 spread through air
+- corona transmission through air
+- can corona virus spread through air
+- is it possible for the virus to spread through air
+- air transmission
+- corona air transmission
+- covid-19 air transmission
+- corona virus air transmission
+
+## intent:covid_causes
+
+- What can cause COVID-19
+- List the main causes of COVID-19
+- What is the main cause of coronavirus
+- do you know the cause of covid-19
+- covid-19 causes
+- cause of covid-19
+- How is the disease caused
+
+## intent:precautions
+
+- preventive measures
+- precautionary measures
+- precautions to protect from covid-19
+- precautions to protect from corona
+- How can I stay safe
+- Suggest me some precautions
+- How can I avoid getting affected by corona virus
+- Give me some useful tips so that I don't get infected by coronavirus
+- How can we keep ourselves safe from the virus
+- what are some of the precautions to be followed for corona virus?
+- give me some precautions to be followed
+- tell me some of the precautions to be kept in mind to protect ourselves from COVID-19
+- what are some of the preventive measures to be followed for corona virus?
+- tell me some of the preventive measures to be kept in mind to protect ourselves from COVID-19
+- preventive measures
+- prevention
+- preventions
+- how to prevent from corona infection
+- how to prevent from covid-19
+- covid-19 prevention
+- corona virus prevention
+- corona precautions
+- covid-19 precautions
+- corona preventions
+- safety-measures to be followed
+- precaution
+- precautions
+
+
+## intent:severe symptoms
+
+- who should be more careful?
+- for which population corona might be fatal?
+- who is likely to develop severe symptoms of corona
+- Which section of the population is likely to develop severe symptoms?
+- what are some of the severe symptoms of corona virus?
+- who are the ones to be greatly affected by the corona virus?
+- who are likely to be severely affected by COVID-19?
+- Are old people affected most
+
+## intent:social distancing
+
+- what is social distancing
+- what does social distancing mean?
+- social distancing?
+- what is social distancing?
+- how social distancing should be followed
+- how can social distancing be followed?
+- how important is social distancing?
+- how to follow social distancing?
+
+## intent:stress management
+
+- what can i do to pass time during lockdown
+- what can i do during my time at home
+- what can i do during the lockdown
+- interesting things to do during lockdown
+- how to usefully spend our time
+- fun things
+- stress management
+- how to manage stress during lockdown?
+- how can i manage stress during lockdown?
+- are there any ways to manage stress during lockdown?
+- give me some suggestions for managing stress during lockdown?
+- suggestions for stress management?
+- how can i spend time during lockdown?
+- what are some of the interesting things to do during lockdown?
+- what can i do to manage stress in lockdown?
+- strees during lockdown
+
+## intent:symptoms of covid-19
+
+- symptoms of covid-19
+- symptoms?
+- let me know the symptoms of covid-19
+- what are the symptoms of covid-19?
+- Provide some information about the initial symptoms of the disease
+- What are the signs that will tell that I have corona virus
+- How do I know if I am infected by corona virus
+- Am I infected
+- Signs of having coronavirus
+- what are the symptoms for corona virus?
+- what are the signs of COVID-19?
+- what are the symptoms for COVID-19
+- what are the signs of corona virus?
+- how do i know if i am infected by corona virus?
+- how do i know if i am infected by COVID-19?
+- tell me the symptoms of corona virus?
+- give me some symptoms of COVID-19?
+- what are some of the symptoms for corona virus?
+- what are some of the symptoms for COVID-19?
+- do i have covid19
+- Is fever a symptoms
+- is cough a symptoms
+- is sneezing a symptom
+- fever
+- dry coughing
+- sneezing
+
+## intent:washing groceries
+
+- how to sanitise groceries?
+- how to wash groceries delivered to prevent covid-19?
+- how to wash groceries delivered to prevent corona?
+- washing groceries
+- how to wash fruits?
+- how to wash vegetables?
+- how to wash the fruits and vegetables
+- how to wash the groceries delivered
+- how to wash groceries after purchase?
+- how to wash fruits and vegetables after purchase?
+- should i wash groceries and vegetables after i buy?
+- should delivered essentials be washed to prevent covid-19?
+- should delivered essentials be washed to prevent corona virus?
+- how can i sanitise my groceries and vegetables after buying?
+- how can i clean my groceries and vegetables after buying?
+- should i sanitise my groceries and vegetables after buying?
+- should i wash my groceries and fruits after buying?
+
+## intent:helpline numbers
+
+- whom should i contact?
+- helpline number
+- toll free number
+- give me the toll free number in india for corona virus
+- coronavirus helpline numbers
+- important contact numbers
+- help
+- helpline numbers for corona virus information
+- please give me the helpline numbers in india for COVID_19
+- helpline numbers for COVID-19 in India
+- contact numbers for COVID-19 in India
+- contact numbers for corona virus information
+- helpline numbers regarding information about corona virus in india
+- contact numbers regarding information about corona virus in india
+- covid-19 helpline numbers
+- corona helpline number
+- corona helpline numbers
+- covid-19 helpline no.s
+- corona helpline no.
+- covid-19 helpline no.
+- whom should i contact when i have the symptoms
+
+## intent:none
+
+- 123456789
+- yha
+- donations
