@@ -5,7 +5,8 @@ Repository for chatbot by students of CEG Anna University
 <https://medium.com/analytics-vidhya/deploying-rasa-chatbot-on-heroku-using-docker-7199bf16c219>
 
 ## To talk to the bot 
-Via REST use POST on <https://covid19chatbotindiademo.herokuapp.com/webhooks/rest/webhook> <br>
+For English:Via REST use POST on <https://covid--chatbot.herokuapp.com/webhooks/rest/webhook> <br>
+For Tamil: Via REST use POST on <https://covid--tamilbot.herokuapp.com/webhooks/rest/webhook> <br>
 
 The body is a json containing sender and message
 
@@ -42,3 +43,9 @@ If this doesn't work try : `$ heroku container:release web -a <application_name>
 Open heroku CLI
 #### `$ heroku logs`
 If this doesn't work try : `$ heroku logs -a <application_name>`
+
+
+The English and Tamil chatbots can be tested in chatbot.html which is placed inside englishbot and tamilbot folders in the master branch
+The webpage is yet to be hosted.
+To chat with the EnglishBot in Telegram, please use <https://t.me/covid_englishbot>
+The voice assistant is ready and working as a separate app created with the help of AimyBox Assisstant(The files can be found in Android Files folder in master branch)
