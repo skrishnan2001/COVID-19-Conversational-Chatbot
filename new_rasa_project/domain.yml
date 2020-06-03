@@ -87,9 +87,9 @@ responses:
   - text: "Thanks for using me "
 
   utter_authorised_websites_for_statistics:
-  - text: "1)For statistcs and info around the world, visit   https://covid19.who.int/
+  - text: "1)For statistics and info around the world, visit   https://covid19.who.int/
 \n2)Donate to WHO’s fund, visit https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate
-\n3)For statistcs and info in India, visit https://webcache.googleusercontent.com/search?q=cache:Q7S18eyhhpgJ:https://www.mohfw.gov.in/"
+\n3)For statistcs and info in India, visit https://www.mohfw.gov.in/"
 
   utter_can_animal_transmit:
   - text: "At this time, there is no evidence that animals play a significant role in spreading the virus that causes COVID-19."
@@ -167,7 +167,7 @@ responses:
     - text: "People with Chronic Lung/ Liver / Kidney/Heart diseases or Diabetes/ hypertension/ Old age are more likely to have serious consequences from this disease."
 
   utter_social distancing:
-    - text: "Social distancing means keeping space between yourself and other people outside of your home. To practice social or distancing: Stay at least 6 feet (2 meters) from other people Do not gather in groups Stay out of crowded places and avoid mass gatherings."
+    - text: "Social distancing means keeping space between yourself and other people outside of your home. To practice social distancing: Stay at least 6 feet (2 meters) from other people Do not gather in groups Stay out of crowded places and avoid mass gatherings."
 
   utter_stress management:
     - text:
