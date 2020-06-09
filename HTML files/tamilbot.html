@@ -1,0 +1,82 @@
+<html lang="en-US,ta">
+<head>
+<meta charset="utf-8"/>
+<style>
+article {
+  float: right;
+  padding: 20px;
+  height:60%;
+  width: 65%;
+  background-color: #f1f1f1;
+  margin:0px 0px 0px 10px;
+}
+
+footer
+{
+  background-color: #f1f1f1;
+  margin : 50px 0px 10px 0px;
+  padding:20px;
+}
+
+
+img
+{
+  border-radius: 50%;
+  width:30%;
+  height:60%;
+}
+
+
+</style>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div id="webchat">
+      <script src="https://storage.googleapis.com/mrbot-cdn/webchat-latest.js"></script>
+      // Or you can replace latest with a specific version
+      <script>
+        WebChat.default.init({
+          selector: "#webchat",
+          initPayload: "/get_started",
+          customData: { language: "en" }, // arbitrary custom data. Stay minimal as this will be added to the socket
+          socketUrl: "https://covid--tamilbot.herokuapp.com/",
+          socketPath: "/socket.io/",
+          title: "COVID-19 CHATBOT",
+          subtitle: "TamilBot",
+        });
+      </script>
+    </div>
+<div class="container">
+  <div style="background-color:	#9400D3" class="jumbotron" >
+    <h1 style="color:white">கோவிட்-19 சாட்போட் புரோட்டோடைப்</h1>      
+  </div>
+<section>
+  <img src="https://images.newscientist.com/wp-content/uploads/2020/02/11165812/c0481846-wuhan_novel_coronavirus_illustration-spl.jpg">
+ <article>
+  <h2>சாட்போட் வினவல்கள்</h2>
+ <ol type="1">
+  <li>பொதுவான  தகவல்கள்</li>
+  <li>தற்காப்பு நடவடிக்கைகள்</li>
+  <li>நோயின் அறிகுறிகள்</li>
+  <li>மறுசீரமைப்பு</li>
+  <li>கட்டுக்கதை</li>
+  <li>சமூக விலகல்</li>
+  <li>முடக்குதல்</li>
+  <li>மன அழுத்தம் மேலாண்மை</li>
+  <li>உதவி எண்கள்</li>
+  <li>அங்கீகரிக்கப்பட்ட வலைத்தளங்கள்</li>
+  <li>தடுப்பூசி தகவல்</li>
+ </ol>
+ </article>
+</section> 
+<footer>
+  <h4>அண்ணா பல்கலைக்கழக (சி.இ.ஜி.) பேராசிரியர்கள் மற்றும் மாணவர்களால் உருவாக்கப்பட்டது. </h4>
+
+</footer>   
+</div>
+
+</body>
+</html>
