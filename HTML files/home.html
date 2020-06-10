@@ -3,29 +3,55 @@
 <meta charset="utf-8"/>
 <style>
 article {
-  float: right;
-  padding: 20px;
-  height:50%;
-  width: 65%;
-  background-color: #f1f1f1;
-  margin:0px 0px 0px 10px;
- 
-}
+        float: right;
+        padding: 20px;
+        height: 60%;
+        width: 65%;
+        background-color: #f1f1f1;
+        margin: 0px 0px 0px 10px;
+      }
+      @media screen and (max-width: 480px) {
+      article {
+        padding: 20px;
+        display:block;
+        height: 80%;
+        width: 100%;
+        background-color: #f1f1f1;
+        margin: 0px 0px 0px 0px;
+      }
+      }
 
-footer
-{
-  background-color: #f1f1f1;
-  margin : 50px 0px 10px 0px;
-  padding:20px;
-}
-
-
-img
-{
-  border-radius: 50%;
-  width:30%;
-  height:49%;
-}
+      footer {
+        background-color: #f1f1f1;
+        margin: 50px 0px 10px 0px;
+        padding: 20px;
+      }
+       @media screen and (max-width: 480px) {
+       footer {
+       display:block;
+       width:100%;
+        background-color: #f1f1f1;
+        margin: 10px 0px 0px 0px;
+        padding: 20px;
+      }
+       }
+      @media screen and (min-width: 480px) {
+      img {
+        border-radius: 50%;
+        width: 30%;
+        height: 60%;
+      }
+      }
+      @media screen and (max-width: 480px) {
+      img {
+        margin-left:30%;
+        margin-right:30%;
+        border-radius: 50%;
+        width: 50%;
+        height: 30%;
+        margin-bottom:2%;
+      }
+      }
 button{
 display: flex;
 justify-content: center;
@@ -52,7 +78,11 @@ align-items: center ;
 </center>
 
 <footer>
-  <h4>Developed by staffs and students of Anna University, CEG campus. </h4>
+  <h4>Developed by staffs and students of Anna University, CEG campus.<br/>
+      For English voice assistant <a href="VoiceAssistant/app-debug.apk">Click here </a>
+
+
+  </h4>
  
 </footer>   
 </div>
