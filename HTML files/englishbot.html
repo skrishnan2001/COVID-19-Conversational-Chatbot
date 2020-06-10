@@ -10,17 +10,47 @@
         background-color: #f1f1f1;
         margin: 0px 0px 0px 10px;
       }
+      @media screen and (max-width: 480px) {
+      article {
+        padding: 20px;
+        display:block;
+        height: 80%;
+        width: 100%;
+        background-color: #f1f1f1;
+        margin: 0px 0px 0px 0px;
+      }
+      }
 
       footer {
         background-color: #f1f1f1;
         margin: 50px 0px 10px 0px;
         padding: 20px;
       }
-
+       @media screen and (max-width: 480px) {
+       footer {
+       display:block;
+       width:100%;
+        background-color: #f1f1f1;
+        margin: 10px 0px 0px 0px;
+        padding: 20px;
+      }
+       }
+      @media screen and (min-width: 480px) {
       img {
         border-radius: 50%;
         width: 30%;
         height: 60%;
+      }
+      }
+      @media screen and (max-width: 480px) {
+      img {
+        margin-left:30%;
+        margin-right:30%;
+        border-radius: 50%;
+        width: 50%;
+        height: 30%;
+        margin-bottom:2%;
+      }
       }
     </style>
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
