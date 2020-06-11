@@ -38,16 +38,16 @@ article {
       @media screen and (min-width: 480px) {
       img {
         border-radius: 50%;
-        width: 30%;
-        height: 60%;
+        width: 27%;
+        height: 50%;
       }
       }
       @media screen and (max-width: 480px) {
       img {
-        margin-left:30%;
-        margin-right:30%;
+        margin-left:23%;
+        margin-right:23%;
         border-radius: 50%;
-        width: 50%;
+        width: 54%;
         height: 30%;
         margin-bottom:2%;
       }
@@ -56,6 +56,17 @@ button{
 display: flex;
 justify-content: center;
 align-items: center ;
+}
+@media screen and (max-width: 480px) {
+.buttonresize{
+justify-content: center;
+align-items: center ;
+margin-top: 3%;
+margin-left: 0%;
+margin-right: 7%;
+margin-bottom:2%;
+width: 34%;
+}
 }
 
 </style>
@@ -72,13 +83,13 @@ align-items: center ;
 <center> 
 <section>
   <img src="https://images.newscientist.com/wp-content/uploads/2020/02/11165812/c0481846-wuhan_novel_coronavirus_illustration-spl.jpg">&emsp;&emsp;&emsp;
-	<a href="englishbot.html" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">ENGLISH</a>
-	<a href="tamilbot.html" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">தமிழ்</a>
+	<a href="englishbot.html" class="btn btn-primary btn-lg active buttonresize" role="button" aria-pressed="true">ENGLISH</a>
+	<a href="tamilbot.html" class="btn btn-primary btn-lg active buttonresize" role="button" aria-pressed="true">தமிழ்</a>
 </section> 
 </center>
 
 <footer>
-  <h4>Developed by staffs and students of Anna University, CEG campus.<br/>
+  <h4>Developed by staffs and students of Anna University, CEG campus.<br/><br/>
       For English voice assistant <a href="VoiceAssistant/app-debug.apk">Click here </a>
 
 
