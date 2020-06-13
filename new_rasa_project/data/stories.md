@@ -1,114 +1,122 @@
-## covid-19_myths
-*covid-19_myths
-   - utter_covid-19_myths
-   
-## say goodbye
-* goodbye
-  - utter_goodbye
+## covid-19 general information
+* covid-19 general information
+  - utter_general
 
-## bot challenge
-* bot_challenge
-  - utter_bot_challenge
-  
-## covid
-*covid
-   - utter_covid
-   
-## greet
-*greet
-   - utter_greet
-   
-## vaccine
-*vaccine
-   - utter_vaccine 
-   
-## general_information
-*general_information
-   - utter_general_information 
-   
-## reinfection
-*reinfection
-   - utter_reinfection 
-   
-## symptoms
-*symptoms
-   - utter_symptoms 
-   
-## lockdown
-*lockdown
-   - utter_lockdown
+## covid-19 greet
+* covid-19 greet
+  - utter_greet
 
-## incubation_period_of_corona_virus
-*incubation_period_of_corona_virus
-   - utter_incubation_period_of_corona_virus
+## covid-19 myths
+* covid-19 myths
+  - utter_myths
 
-## social_distancing
-*social_distancing
-   - utter_social_distancing 
-   
-## treatment
-*treatment
-   - utter_treatment 
-   
-## self_isolation
-*self_isolation
-   - utter_self_isolation 
-   
-## testing
-*testing
-   - utter_testing 
-   
-## prevention
-*prevention
-   - utter_prevention 
-   
-## tamilnadu_helpline_no
-*tamilnadu_helpline_no
-   - utter_tamilnadu_helpline_no 
-   
-## authorised_websites_for_donation
-*authorised_websites_for_donation
-   - utter_authorised_websites_for_donation 
-   
-## authorised_websites_for_statistics
-*authorised_websites_for_statistics
-   - utter_authorised_websites_for_statistics 
-   
-## stress_management
-*stress_management
-   - utter_stress_management
-   
-## masks
-*masks
-   - utter_masks 
-   
-## lockdown
-*lockdown
-   - utter_lockdown 
-   
-## precautions
-*precautions
-   - utter_precautions 
-   
-## can_animals_transmit
-*can_animals_transmit
-   - utter_can_animals_transmit
-   
-## home_delivery 
-*home_delivery
-   - utter_home_delivery
-   
-## helpline_no
-*helpline_no
-  - utter_helpline_no
-  
+## covid-19 reinfection
+* covid-19 reinfection
+  - utter_reinfection
+
+## covid-19 testing
+* covid-19 testing
+  - utter_testing
+
+## covid-19 vaccine
+* covid-19 vaccine
+  - utter_vaccine
+
 ## hydroxychloroquinetreatment
-*hydroxychloroquinetreatment
+* hydroxychloroquinetreatment
   - utter_hydroxychloroquinetreatment
-      
-      
-      
-   
- 
 
+## incubationperiodofcoronavirus
+* incubationperiodofcoronavirus
+  - utter_incubationperiodofcoronavirus
+## list
+* list
+  - utter_list
+  
+## lockdown
+* lockdown
+  - utter_lockdown
 
+## masks
+* masks
+  - utter_masks
+
+## precautionarymeasuresatwork
+* precautionarymeasuresatwork
+  - utter_precautionarymeasuresatwork
+
+## authorised1
+* authorised_websites_for_donation
+  - utter_authorised_websites_for_donation
+
+## authorised2
+* authorised_websites_for_statistics
+  - utter_authorised_websites_for_statistics
+
+## transmissionby
+* can_animal_transmit
+  - utter_can_animal_transmit
+
+## clean
+* cleanliness
+  - utter_cleanliness
+
+## clothmask
+* cloth_masks
+  - utter_cloth_masks
+
+## transmissionbyair
+* corona_transmission_through_air
+  - utter_corona_transmission_through_air
+
+## causes
+* covid_causes
+  - utter_covid_causes
+
+## precautions
+* precautions
+  - utter_precautions
+
+## severe symptoms
+* severe symptoms
+  - utter_severe symptoms
+
+## social distancing
+* social distancing
+  - utter_social distancing
+
+## stress management
+* stress management
+  - utter_stress management
+
+## symptoms of covid-19
+* symptoms of covid-19
+  - utter_symptoms of covid-19
+
+## washing groceries
+* washing groceries
+  - utter_washing groceries
+
+## helpline numbers
+* helpline numbers
+  - utter_helpline numbers
+
+## sanitization
+* sanitization
+  - utter_sanitization
+
+## lungs
+* lungs
+  - utter_lungs
+
+## quarantine
+* quarantine
+  - utter_quarantine
+
+## hand_washing
+* hand_washing
+  - utter_handwashing
+
+## default fallback
+* none
+  - action_default_fallback

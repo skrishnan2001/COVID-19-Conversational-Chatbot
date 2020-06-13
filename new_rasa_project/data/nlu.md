@@ -16,6 +16,9 @@
   - what is corona?
   - what is the most widely spread disease of 2020
   - covid 19
+  - pandemic
+  - epidemic
+  - widespread disease of 2020
 
 
 ## intent:covid-19 greet
@@ -75,6 +78,7 @@
    - is there a possibility of getting infected again
    - Can a affected person catch be affected by the virus again
    - any chances of getting corona virus more than once?
+   - chances of reinfection
 
 
 ## intent:covid-19 testing
@@ -118,7 +122,11 @@
    - Do hydroxychloroquine has side effects
    - medicine
    - medicines
+   - malaria drug
    - The drug which is used for malaria treatment which is used for the treatment of covid
+   - medication
+   - medications
+   - medical care
 
 ## intent:incubationperiodofcoronavirus
 
@@ -133,11 +141,19 @@
 - when does a person show symptoms after infection
 - after how many days will i get the symptoms?
 
+## intent:list
+
+- list
+- list what you can do
+- tell me what you can do
+- what can you do
+- what are the queries that you can respond to
+- list me the queries that you can reply to
 
 ## intent:lockdown
 
 - Till when is the lockdown in India?
-- For how many days will we have to stay in quarantine
+- For how many days will we have to stay in lockdown
 - When is the lockdown in India supposed to end?
 - When shall we come to our normal routine
 - When shall the complete lockdown in India due to COVID-19 be removed
@@ -276,10 +292,15 @@
 - covid-19 causes
 - cause of covid-19
 - How is the disease caused
+- contagious
+- infectious
+- infections
 
 ## intent:precautions
 
 - precautions
+- Precautions
+- precautions to stay safe
 - precaution
 - prevention
 - preventions
@@ -376,6 +397,7 @@
 - fever
 - dry coughing
 - sneezing
+- breathlessness
 
 ## intent:washing groceries
 
@@ -416,13 +438,64 @@
 - covid-19 helpline numbers
 - corona helpline number
 - corona helpline numbers
-- covid-19 helpline no.s
+- covid-19 helpline nos.
 - corona helpline no.
 - covid-19 helpline no.
 - whom should i contact when i have the symptoms
+
+## intent:sanitization
+
+- sanitization
+- how to sanitize our hands
+- what type of sanitizers should be used
+- isopropyl alcohol
+- sanitizers
+- sanitizer
+- Should the sanitizers for covid-19 contain alcohol
+- sanitizing our hands
+- sanitize
+- How often should I apply hand sanitizer?
+- Do all types of hand sanitizer contain enough alcohol?
+
+## intent:lungs
+
+- lungs
+- how does covid affect the lungs
+- lung diseses caused due to covid-19
+- how is our lungs affected due to coronavirus
+- pneumonia
+- respiratory symptoms
+- lung disease
+- breathing difficulty
+- difficulty in breathing
+
+## intent:quarantine
+
+- quarantine
+- quarantining
+- what is quarantine
+- meaning of quarantine
+- is it necessary to quarantine ourselves
+- how long should a person who is exposed to covid-19 kept away from others
+- is quarantining helpful
+- how many days must a covid patient isolate himself
+- how many days of quarantine is necessary
+- isolate
+- isolation
+- isolating from others
+
+## intent:hand_washing
+
+- hand washing
+- how should we wash our hands
+- is hand washing necessary
+- how should our hands be cleaned
+- hand cleaning
+- how many long should we wash our hands
 
 ## intent:none
 
 - 123456789
 - yha
 - donations
+- sanitation
