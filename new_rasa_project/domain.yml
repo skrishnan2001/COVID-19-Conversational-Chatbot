@@ -7,6 +7,7 @@ intents:
   - covid-19 vaccine
   - hydroxychloroquinetreatment
   - incubationperiodofcoronavirus
+  - list
   - lockdown
   - masks
   - precautionarymeasuresatwork
@@ -24,6 +25,10 @@ intents:
   - symptoms of covid-19
   - washing groceries
   - helpline numbers
+  - sanitization
+  - lungs
+  - quarantine
+  - hand_washing
   - none
 
 responses:
@@ -70,10 +75,16 @@ responses:
 
   utter_incubationperiodofcoronavirus:
   - text: "The incubation period means the time between catching the virus and beginning to have symptoms of the disease. Most estimates of the incubation period for COVID-19 range from 1-14 days, most commonly around five days. These estimates will be updated as more data become available."
+  utter_list:
+  - text: "Here are some of the topics that I can answer about \n1.Covid-19 general\
+      \ information \n2.Testing \n3.Vaccine \n4.Incubation period \n5.Lockdown \n\
+      6.Masks \n7.Precautionary measures \n8.Symptoms of covid-19 \n9.Helpline numbers\
+      \ \n10.Stress management \n11.Authorized Websites for Statistics \n12.Sanitization \n13.Quarantine \n14.Handwashing \nYou may type\
+      \ your queries and I can reply to them"
 
   utter_lockdown:
-  - text: "States like Maharashtra, Tamil Nadu and Telangana extended the lockdown till June 30 with several relaxations. India is now the seventh most-affected nation in the global COVID-19 tally, with over 1.9 lakh cases and 5,400 deaths."
-  - text: "The Centre plans to unlock all the economic activities in a phased manner, beginning with the opening of restaurants and malls on June 8. Though the lockdown 5.0 will last till June 30, it is only in containment zones. Also, the night curfew hours for areas outside these zones have been revised to 9 pm to 5 am from the earlier 7 pm to 7 am.The unlock 1.0, however, will play out differently in most states as they have been given the freedom to prohibit certain activities if they deem fit. But they cannot water down the Centre guidelines. On Sunday, a day before lockdown 4.0 expires, Tamil Nadu announced that it would be extending the lockdown till June 30."
+  - text: "States like Maharashtra, Tamil Nadu and Telangana extended the lockdown till June 30 with several relaxations. India is now the fourth most-affected nation in the global COVID-19 tally, with over 3 lakh cases and about 8,500 deaths."
+  - text: "The Centre plans to unlock all the economic activities in a phased manner, beginning with the opening of restaurants and malls on June 8. Though the lockdown 5.0 will last till June 30, it is only in containment zones. Also, the night curfew hours for areas outside these zones have been revised to 9 pm to 5 am from the earlier 7 pm to 7 am.The unlock 1.0, however, will play out differently in most states as they have been given the freedom to prohibit certain activities if they deem fit. But they cannot water down the Centre guidelines. A day before lockdown 4.0 expires, Tamil Nadu announced that it would be extending the lockdown till June 30."
 
   utter_masks:
   - text: "There are two types of masks which are\n available currently:\nSurgical/2 ply (Layer) mask: This type of\nmask provides one way protection,\nmeaning a person wearing this mask\ncannot spread the virus to other people.\nHowever it does not provide protection to\n\nthe wearer from getting infected.\nHowever if enough people wear this mask\n(ideally everyone in public and positive\ncases at home), we can prevent the\nspread of the disease almost completely.\nN95 Mask/ N95 Respirator: This 4 ply\nmask provides 2 way protection for both\nthe wearer and the people around the\nperson wearing the mask. It also provides\nprotection from aerosols released by a\npatient. Therefore it is advised that all\nhealth care professionals treating COVID\n19 patients on a daily basis, putting tube\nfor patients with respiratory distress due\nto COVID 19 or testing patients suspected\nwith COVID 19 (any procedure releasing\naerosols) should use these masks. It is not\nadvised to be used by general public."
@@ -82,7 +93,7 @@ responses:
   - text: "precautionary measures at work:For Staff - Workplace etiquette  \n\n·Where possible meet outside or use video or teleconferencing for meetings.  \n\n· Where possible, keep a reasonable distance away from others (1.5 metres is recommended). \n\n·         Limit the length of in person meetings to 2 hours at the most where participants can be appropriately separate and no more than 15 minutes where space is more confined."
 
   utter_authorised_websites_for_donation:
-  - text: "Good Bye!"
+  - text: "Thank you !"
   - text: "I'm glad I could help you"
   - text: "Thanks for using me "
 
@@ -214,6 +225,33 @@ responses:
         \n2.When it comes to fresh produce, such as fruits and vegetables, do not use products containing any chemicals to clean them.
         \n3.For unwrapped fresh goods, which could have been handled by anyone, wash thoroughly under running water and leave to dry."
 
+  utter_sanitization:
+    - text:
+        "When shopping for hand sanitizer, make sure you choose a sanitizer that contains between 60-95% alcohol(preferably isopropyl alcohol). Also, when you use hand sanitizer, make sure you do so the right way. Find the directions on the back of the bottle and follow the proper technique. Generally, apply the liquid to the palm of one hand. Then rub it all over both hands until the sanitizer dries. This takes about 20 seconds. Be careful not to wipe the sanitizer off before it’s dry. Doing that can make it not as effective in killing germs.
+        \nThere are many times you should use hand sanitizer, such as before and after touching a surface other people have touched. It’s good to wipe down the handle of a shopping cart before you use it. It’s also wise to use sanitizer after you’ve pushed a cart around the store, after filling your vehicle with fuel, after handling money, and after touching elevator buttons or door handles. Always wash your hands (with either soap and water or hand sanitizer) after each time you cough and sneeze."
+
+  utter_lungs:
+    - text:
+        "Covid 19 primarily infects the lungs in the affected individuals and in severe cases causes’ death due to ARDS and pneumonia. It is important to remember that it does not lead to ARDS and pneumonia in all the cases, which is an occurrence in most severe cases.
+        \nIn the majority of the cases i.e. 80% will exhibit mild symptoms, 14% will have pneumonia, 5% will suffer from septic shock and organ failure (mostly respiratory failure) and in 2% cases it will be fatal."
+    - text:
+        "Covid 19 directly impacts the lungs and damages the alveoli (tiny air sacs). The function of the alveolus is to transfer oxygen to the blood vessels. These blood vessels or capillaries carry the oxygen to the RBCs (Red blood cells). It is the RBCs that finally deliver the oxygen to all the internal organs in the body.
+        \nThe virus works by damaging the wall and the lining of the alveolus and capillaries. The debris from the damage, which is plasma protein accumulates on the alveolus wall and thickens the lining. As the walls’ thicken, the transfer of oxygen to the red blood cells is impaired. The thicker the wall gets, the more difficult it gets to transfer oxygen to the red blood cells, which causes difficulty in breathing as the body is running short of oxygen. And the lack of oxygen to the internal organs results in a deficit in the body and impairs the functioning of the organs. At this juncture, the body fights to increase oxygen intake."
+  utter_quarantine:
+    - text:
+        "Quarantine is used to keep someone who might have been exposed to COVID-19 away from others. Quarantine helps prevent spread of disease that can occur before a person knows they are sick or if they are infected with the virus without feeling symptoms. People in quarantine should stay home, separate themselves from others, monitor their health, and follow directions from their state or local health department.
+        \nThe home quarantined person should: Stay in a well-ventilated single-room preferably with an attached/separate toilet. If another family member needs to stay in the same room, it's advisable to maintain a distance of at least 1 meter between the two.The quarantine period should be at least 14 days.\n
+        \n Isolation is used to separate people infected with the virus (those who are sick with COVID-19 and those with no symptoms) from people who are not infected. People who are in isolation should stay home until it’s safe for them to be around others. In the home, anyone sick or infected should separate themselves from others by staying in a specific “sick room” or area and using a separate bathroom (if available)."
+
+  utter_handwashing:
+    - text:
+        "Proper handwashing not only reduces the spread of Coronavirus (COVID-19), it can prevent the spread of other viral illnesses such as cold and flu. Handwashing also reduces the risk of getting other easily spread infections, such SARS (severe acute respiratory syndrome) and MERS (Middle East respiratory syndrome).\n
+        \nWet: Put both your hands under clean, running water.
+        \nLather: Apply a generous amount of soap to the inside and back of your hands as well as your fingertips. Wash your hands for at least 20 seconds (sing happy birthday) and don’t forget to wash under jewelry and fingernails. Your fingertips are especially important as people often put their fingers on their face, nose, and eyes. This is how the virus spreads.
+        \nScrub: Rub both hands together and move your fingertips around both hands. You don’t need a scrub brush. You don’t need to make harsh, scrubbing movements.
+        \nRinse: Return both hands to the running water and gently wash away the soap.
+        \nDry: Completely dry the water from your hands. Using a disposable towel (paper towel) is best to avoid leaving germs on towels. Air dryers, commonly found in public bathrooms, are also effective."
+
   utter_default:
     - text: "Sorry I didn't get it. Could you please repeat ? "
 
@@ -227,6 +265,7 @@ actions:
   - utter_vaccine
   - utter_hydroxychloroquinetreatment
   - utter_incubationperiodofcoronavirus
+  - utter_list
   - utter_lockdown
   - utter_masks
   - utter_precautionarymeasuresatwork
@@ -244,6 +283,10 @@ actions:
   - utter_symptoms of covid-19
   - utter_washing groceries
   - utter_helpline numbers
+  - utter_sanitization
+  - utter_lungs
+  - utter_quarantine
+  - utter_handwashing
 
 session_config:
   session_expiration_time: 60

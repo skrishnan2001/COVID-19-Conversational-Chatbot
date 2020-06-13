@@ -25,8 +25,8 @@ policies:
     epochs: 100
   - name: MappingPolicy
   - name: FallbackPolicy
-    nlu_threshold: 0.8
-    core_threshold: 0.8
+    nlu_threshold: 0.75
+    core_threshold: 0.75
     fallback_action_name: "action_default_fallback"
 
 
