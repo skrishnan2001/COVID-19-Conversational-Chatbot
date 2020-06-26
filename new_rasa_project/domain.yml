@@ -29,7 +29,12 @@ intents:
   - lungs
   - quarantine
   - hand_washing
+  - corona_state
+  - name
   - none
+
+entities:
+  - state
 
 responses:
   utter_general:
@@ -83,7 +88,7 @@ responses:
       \ your queries and I can reply to them"
 
   utter_lockdown:
-  - text: "States like Maharashtra, Tamil Nadu and Telangana extended the lockdown till June 30 with several relaxations. India is now the fourth most-affected nation in the global COVID-19 tally, with over 3 lakh cases and about 8,500 deaths."
+  - text: "States like Maharashtra, Tamil Nadu and Telangana extended the lockdown till June 30 with several relaxations. India is now the fourth most-affected nation in the global COVID-19 tally, with over 4.75 lakh cases and about 14,900 deaths."
   - text: "The Centre plans to unlock all the economic activities in a phased manner, beginning with the opening of restaurants and malls on June 8. Though the lockdown 5.0 will last till June 30, it is only in containment zones. Also, the night curfew hours for areas outside these zones have been revised to 9 pm to 5 am from the earlier 7 pm to 7 am.The unlock 1.0, however, will play out differently in most states as they have been given the freedom to prohibit certain activities if they deem fit. But they cannot water down the Centre guidelines. A day before lockdown 4.0 expires, Tamil Nadu announced that it would be extending the lockdown till June 30."
 
   utter_masks:
@@ -98,9 +103,7 @@ responses:
   - text: "Thanks for using me "
 
   utter_authorised_websites_for_statistics:
-  - text: "1)For statistics and info around the world, visit   https://covid19.who.int/
-\n2)Donate to WHO’s fund, visit https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate
-\n3)For statistcs and info in India, visit https://www.mohfw.gov.in/"
+  - text: "Type the name of the state to get information about active cases,recovery, total confirmed cases and deaths in that particular state due to covid -19 ."
 
   utter_can_animal_transmit:
   - text: "At this time, there is no evidence that animals play a significant role in spreading the virus that causes COVID-19."
@@ -203,17 +206,17 @@ responses:
         \n6. Learn new languages which would be really helpful ."
 
   utter_symptoms of covid-19:
-    - text: "Common symptoms: \n\
-        .fever, \n\
-        .tiredness, \n\
-        .dry cough. \n\
-        .Some people may experience- \n\
-        .aches and pains, \n\
-        .nasal congestion, \n\
-        .runny nose, \n\
-        .sore throat, \n\
-        .diarrhoea. \n\
-        dont worry even if u have these symptoms..self-isolate and visit the nearest health care!!! "
+    - text: "Common symptoms:
+        \n fever,
+        \n tiredness,
+        \n dry cough.
+        \n Some people may experience -
+        \n aches and pains,
+        \n nasal congestion,
+        \n runny nose,
+        \n sore throat,
+        \n diarrhoea.
+        Don't worry even if you have these symptoms..self-isolate and visit the nearest health care!!! "
 
     - text:
         "It can vary from flu like symptoms such as cold, cough, running nose, fever, altered sense of taste and smell, generalised body pain and can be as severe as breathlessness, respiratory distress, pneumonia etc.
@@ -247,10 +250,16 @@ responses:
     - text:
         "Proper handwashing not only reduces the spread of Coronavirus (COVID-19), it can prevent the spread of other viral illnesses such as cold and flu. Handwashing also reduces the risk of getting other easily spread infections, such SARS (severe acute respiratory syndrome) and MERS (Middle East respiratory syndrome).\n
         \nWet: Put both your hands under clean, running water.
-        \nLather: Apply a generous amount of soap to the inside and back of your hands as well as your fingertips. Wash your hands for at least 20 seconds (sing happy birthday) and don’t forget to wash under jewelry and fingernails. Your fingertips are especially important as people often put their fingers on their face, nose, and eyes. This is how the virus spreads.
-        \nScrub: Rub both hands together and move your fingertips around both hands. You don’t need a scrub brush. You don’t need to make harsh, scrubbing movements.
-        \nRinse: Return both hands to the running water and gently wash away the soap.
-        \nDry: Completely dry the water from your hands. Using a disposable towel (paper towel) is best to avoid leaving germs on towels. Air dryers, commonly found in public bathrooms, are also effective."
+        \n\nLather: Apply a generous amount of soap to the inside and back of your hands as well as your fingertips. Wash your hands for at least 20 seconds (sing happy birthday) and don’t forget to wash under jewelry and fingernails. Your fingertips are especially important as people often put their fingers on their face, nose, and eyes. This is how the virus spreads.
+        \n\nScrub: Rub both hands together and move your fingertips around both hands. You don’t need a scrub brush. You don’t need to make harsh, scrubbing movements.
+        \n\nRinse: Return both hands to the running water and gently wash away the soap.
+        \n\nDry: Completely dry the water from your hands. Using a disposable towel (paper towel) is best to avoid leaving germs on towels. Air dryers, commonly found in public bathrooms, are also effective."
+
+  utter_name:
+    - text:
+        "I'm your COVID-19 Assistant.I can provide you information about COVID-19"
+    - text:
+        "You can call me COVID-19 Assistant.How may I help you ?"
 
   utter_default:
     - text: "Sorry I didn't get it. Could you please repeat ? "
@@ -287,6 +296,8 @@ actions:
   - utter_lungs
   - utter_quarantine
   - utter_handwashing
+  - utter_name
+  - action_corona_tracker
 
 session_config:
   session_expiration_time: 60
