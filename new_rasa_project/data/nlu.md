@@ -19,6 +19,8 @@
   - pandemic
   - epidemic
   - widespread disease of 2020
+  - tell me about covid
+  - provide me some information about covid 19
 
 
 ## intent:covid-19 greet
@@ -127,6 +129,7 @@
    - medication
    - medications
    - medical care
+   - covid cure
 
 ## intent:incubationperiodofcoronavirus
 
@@ -149,6 +152,7 @@
 - what can you do
 - what are the queries that you can respond to
 - list me the queries that you can reply to
+- how can you help me
 
 ## intent:lockdown
 
@@ -237,6 +241,18 @@
 - no of infected
 - no of covid-19 cases today
 - no of corona cases today
+- death rate
+- deaths
+- cases
+- covid 19 active cases
+- active cases
+- recovered
+- recovery rate
+- state wise data
+- total cases state-wise
+- covid cases
+- fatalities
+- cured cases
 
 ## intent:can_animal_transmit
 
@@ -418,6 +434,9 @@
 - how can i clean my groceries and vegetables after buying?
 - should i sanitise my groceries and vegetables after buying?
 - should i wash my groceries and fruits after buying?
+- washing fruits
+- washing vegetables
+
 
 ## intent:helpline numbers
 
@@ -492,6 +511,53 @@
 - how should our hands be cleaned
 - hand cleaning
 - how many long should we wash our hands
+- hand wash
+- washing hands
+- how to wash hands
+- hand washing practices
+
+## intent:corona_state
+
+- [karnataka](state)
+- [Andhra pradesh](state)
+- [bihar](state)
+- [delhi](state)
+- [punjab](state)
+- [west bengal](state)
+- [odisha](state)
+- [assam](state)
+- [goa](state)
+- [maharashtra](state)
+- [tamil nadu](state)
+- [gujarat](state)
+- [Uttar Pradesh](state)
+- [Madhya Pradesh](state)
+- [Haryana](state)
+- [Telangana](state)
+- [Jammu and Kashmir](state)
+- [Kerala](state)
+- [Chhattisgarh](state)
+- [Jharkhand](state)
+- [Tripura](state)
+- [Manipur](state)
+- [Ladakh](state)
+- [Himachal Pradesh](state)
+- [Puducherry](state)
+- [Chandigarh](state)
+- [Nagaland](state)
+- [Arunachal Pradesh](state)
+- [Dadra and Nagar Haveli and Daman and Diu](state)
+- [Mizoram](state)
+- [Sikkim](state)
+- [Andaman and Nicobar Islands](state)
+- [Meghalaya](state)
+
+## intent:name
+
+- What's your name
+- May I know your name?
+- your name
+- tell me your name
 
 ## intent:none
 

@@ -32,7 +32,7 @@
 ## list
 * list
   - utter_list
-  
+
 ## lockdown
 * lockdown
   - utter_lockdown
@@ -116,6 +116,14 @@
 ## hand_washing
 * hand_washing
   - utter_handwashing
+
+## name
+* name
+  - utter_name
+
+## corona_state
+* corona_state
+  - action_corona_tracker
 
 ## default fallback
 * none
